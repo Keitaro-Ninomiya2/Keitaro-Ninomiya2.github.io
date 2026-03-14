@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About me
 
-I'm a Ph.D. candidate in Economics at the University of Illinois Urbana-Champaign. My research interests lie at the intersection of labor economics and the economics of education. I am on the 2025–2026 job market.
+I'm a Ph.D. candidate in Economics at the University of Illinois Urbana-Champaign. I will be starting as Project Assistant Professor at the University of Tokyo and Research Associate at the University of Nottingham. My research interests lie at the intersection of labor economics and the economics of education. I am on the 2025–2026 job market.
 
 I study topics related to labor economics, economics of education, and industrial organization. Methodologically, I combine tools from empirical industrial organization, causal inference, and Bayesian econometrics to understand how micro-level behaviors aggregate into broader economic outcomes.
 

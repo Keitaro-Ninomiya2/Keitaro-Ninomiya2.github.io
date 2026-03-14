@@ -5,7 +5,7 @@ title: Keitaro Ninomiya
 author: Keitaro Ninomiya
 email: keitaro2@illinois.edu
 description: "Ph.D. candidate in Economics at the University of Illinois Urbana-Champaign"
-url: "https://keitaroninomiya.github.io"
+url: "https://keitaro-ninomiya2.github.io"
 baseurl: ""
 twitter_username: ""
 github_username: keitaroninomiya
@@ -22,6 +22,7 @@ minima:
   skin: classic
   header_pages:
     - about.md
+    - research.md
 
 # Exclude from processing
 exclude:
