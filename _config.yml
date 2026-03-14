@@ -1,0 +1,32 @@
+# Jekyll configuration for Keitaro Ninomiya's personal website
+# Inspired by academic economist sites (e.g., alexbartik.com)
+
+title: Keitaro Ninomiya
+author: Keitaro Ninomiya
+email: keitaro2@illinois.edu
+description: "Ph.D. candidate in Economics at the University of Illinois Urbana-Champaign"
+url: "https://keitaroninomiya.github.io"
+baseurl: ""
+twitter_username: ""
+github_username: keitaroninomiya
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Minima theme settings
+minima:
+  skin: classic
+  header_pages:
+    - about.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git
+  - .gitignore
