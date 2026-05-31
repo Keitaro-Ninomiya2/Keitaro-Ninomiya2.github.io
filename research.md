@@ -33,7 +33,6 @@ This study evaluates the effectiveness of taxes as regulatory tools within two-s
 ### Work in Progress
 
 - Spatial diffusion of unions: Historical Evidence from the UK (with Shivangi Ambardar)
-- Do Regional Public Universities Affect the Geography of Teacher Shortages? (with Greg Howard and Russell Weinstein)
 
 ### Published Papers
 
